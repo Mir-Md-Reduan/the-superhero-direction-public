@@ -4,7 +4,7 @@
         "role": "Chairman",
         "age": "56",
         "name": "Mir Md Reduan",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg",
+        "img": "images/img-1.jpg",
         "salary": 50000,
         "division": "Chittagong"
     },
@@ -13,7 +13,7 @@
         "role": "Vice-Chairman",
         "age": "50",
         "name": "Abu Hamed",
-        "img": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
+        "img": "images/img-2.jpg",
         "salary": 45000,
         "division": "Dhaka"
     },
@@ -22,7 +22,7 @@
         "role": "Secretary",
         "age": "46",
         "name": "Shafi Ullah",
-        "img": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg",
+        "img": "images/img-3.jpg",
         "salary": 40000,
         "division": "Rangpur"
     },
@@ -31,7 +31,7 @@
         "role": "General-Member",
         "age": "36",
         "name": "Rasheda Akter",
-        "img": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+        "img": "images/img-4.jpg",
         "salary": 35000,
         "division": "Mymensingh"
     },
@@ -40,7 +40,7 @@
         "role": "General-Member",
         "age": "43",
         "name": "Nargir Akter",
-        "img": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg",
+        "img": "images/img-5.jpg",
         "salary": 35000,
         "division": "Sylhet"
     },
@@ -49,7 +49,7 @@
         "role": "General-Member",
         "age": "33",
         "name": "Safiul Alam",
-        "img": "https://images.pexels.com/photos/374044/pexels-photo-374044.jpeg",
+        "img": "images/img-6.jpg",
         "salary": 35000,
         "division": "Dhaka"
     },
@@ -58,7 +58,7 @@
         "role": "General-Member",
         "age": "38",
         "name": "Rasel Chowdhury",
-        "img": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
+        "img": "images/img-7.jpg",
         "salary": 35000,
         "division": "Mymensingh"
     },
@@ -67,7 +67,7 @@
         "role": "Zannatul Zeny",
         "age": "40",
         "name": "Mir Md Reduan",
-        "img": "https://images.pexels.com/photos/38554/girl-people-landscape-sun-38554.jpeg",
+        "img": "images/img-8.jpg",
         "salary": 34000,
         "division": "Chittagong"
     },
@@ -76,7 +76,7 @@
         "role": "General-Member",
         "age": "46",
         "name": "Md Yeasin",
-        "img": "https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg",
+        "img": "images/img-9.jpg",
         "salary": 32000,
         "division": "Mymensingh"
     },
@@ -85,7 +85,7 @@
         "role": "General-Member",
         "age": "57",
         "name": "Jasim Uddin",
-        "img": "https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg",
+        "img": "images/img-10.jpg",
         "salary": 32000,
         "division": "Dhaka"
     },
@@ -94,7 +94,7 @@
         "role": "General-Member",
         "age": "37",
         "name": "Jayedul Amin",
-        "img": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg",
+        "img": "images/img-11.jpg",
         "salary": 320000,
         "division": "Chittagong"
     },
@@ -103,7 +103,7 @@
         "role": "General-Member",
         "age": "50",
         "name": "Ruksana AKter",
-        "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+        "img": "images/img-12.jpg",
         "salary": 31000,
         "division": "Dhaka"
     },
@@ -112,7 +112,7 @@
         "role": "General-Member",
         "age": "41",
         "name": "Shadul Alam",
-        "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg",
+        "img": "images/img-13.jpg",
         "salary": 31000,
         "division": "Chittagong"
     },
@@ -121,7 +121,7 @@
         "role": "Teacher-Member",
         "age": "31",
         "name": "Parimol Dash",
-        "img": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg",
+        "img": "images/img-14.jpg",
         "salary": 40000,
         "division": "Dhaka"
     },
@@ -130,7 +130,7 @@
         "role": "Teacher-Member",
         "age": "51",
         "name": "Nasir Uddin",
-        "img": "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg",
+        "img": "images/img-15.jpg",
         "salary": 42000,
         "division": "Rajshahi"
     },
@@ -139,7 +139,7 @@
         "role": "Teacher-Member",
         "age": "52",
         "name": "Nurul Bashor",
-        "img": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg",
+        "img": "images/img-16.png",
         "salary": 45000,
         "division": "Chittagong"
     },
@@ -148,7 +148,7 @@
         "role": "Teacher-Member",
         "age": "43",
         "name": "Md Hasan",
-        "img": "https://images.pexels.com/photos/834863/pexels-photo-834863.jpeg",
+        "img": "images/img-17.png",
         "salary": 49000,
         "division": "Khulna"
     },
@@ -157,7 +157,7 @@
         "role": "Teacher-Member",
         "age": "46",
         "name": "Shahadat Hossein",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg",
+        "img": "images/img-18.png",
         "salary": 40000,
         "division": "Rajshahi"
     },
@@ -166,7 +166,7 @@
         "role": "Guardian-Member",
         "age": "50",
         "name": "Md Rana",
-        "img": "https://images.pexels.com/photos/716411/pexels-photo-716411.jpeg",
+        "img": "images/img-19.png",
         "salary": 50000,
         "division": "Rajshahi"
     },
@@ -175,7 +175,7 @@
         "role": "Member-Secretary",
         "age": "62",
         "name": "Airin Rahman",
-        "img": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg",
+        "img": "images/img-20.jpg",
         "salary": 42000,
         "division": "Chittagong"
     },
@@ -184,7 +184,7 @@
         "role": "Co-Opted-Member",
         "age": "39",
         "name": "Sadiya Shahrin",
-        "img": "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg",
+        "img": "images/img-21.jpg",
         "salary": 40000,
         "division": "Khulna"
     }

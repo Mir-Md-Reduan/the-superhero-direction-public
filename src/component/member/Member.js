@@ -8,7 +8,7 @@ const Member = (props) => {
     const element = <FontAwesomeIcon icon={faShoppingCart} />;
     return (
         <div className="member-container">
-            {/* <img src={img} alt="" /> */}
+            <img src={img} alt="" />
             <p><b>Name:</b> {name}</p>
             <p><b>Role:</b> {role}</p>
             <p><b>Age:</b> {age}</p>
