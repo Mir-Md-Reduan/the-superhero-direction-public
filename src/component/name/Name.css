@@ -1,8 +1,7 @@
-.memberCart-container{
+.name-container{
     background-color: #001510;
+    color: #03fabd ;
     width: 75%;
     margin: auto;
     border-radius: 5px;
-    padding: 5px;
-    color: #03fabd;
 }

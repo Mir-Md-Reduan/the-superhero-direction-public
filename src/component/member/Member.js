@@ -13,7 +13,7 @@ const Member = (props) => {
             <p><b>Role:</b> {role}</p>
             <p><b>Age:</b> {age}</p>
             <p><b>Division:</b> {division}</p>
-            <p><b>Salary:</b> {salary}</p>
+            <p><b>Salary: $</b>{salary}</p>
             <button onClick={() => props.handleAddToCart(props.member)}>{element} Add to Cart</button>
         </div>
     );
