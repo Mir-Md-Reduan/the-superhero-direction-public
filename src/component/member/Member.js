@@ -14,7 +14,7 @@ const Member = (props) => {
             <p><b>Age:</b> {age}</p>
             <p><b>Division:</b> {division}</p>
             <p><b>Salary: $</b>{salary}</p>
-            <button onClick={() => props.handleAddToCart(props.member)}>{element} Add to Cart</button>
+            <button className="btn-style" onClick={() => props.handleAddToCart(props.member)}>{element} Add to Cart</button>
         </div>
     );
 };

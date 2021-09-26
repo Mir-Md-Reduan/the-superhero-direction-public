@@ -1,5 +1,4 @@
 import './Comittee.css';
-
 import React, { useEffect, useState } from 'react';
 import Member from '../member/Member';
 import MemberCart from '../member-cart/MemberCart';
@@ -19,8 +18,8 @@ const Comittee = () => {
         const newName = [...name, member.name]
         setMembercart(newMembercart);
         setName(newName);
-
     }
+
     return (
         <div className="comittee-container">
             <div className="members-container">
@@ -38,6 +37,7 @@ const Comittee = () => {
                 {
                     name.map(nam => <Name
                         nam={nam}
+                        key={nam.length}
                     ></Name>)
                 }
             </div>

@@ -1,6 +1,8 @@
 .App {
   text-align: center;
-  background-image: url(./images/img-4.jpg);
+  /* background-image: url(./images/img-9.jpg); */
+  /* background-image: linear-gradient(to right, rgba(200, 255, 0, 0.603) , rgba(43, 255, 0, 0.808)); */
+  background-image: linear-gradient(to right, #1CAC78 , #8FBC8B);
 }
 
 .App-logo {
